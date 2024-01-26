@@ -1,0 +1,12 @@
+.date-info {
+    padding: 5px 10px;
+    background-color: rgb(235, 188, 126);
+    border-left: 5px solid ;
+    display: flex;
+    align-self: center;
+}
+
+.date-info span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
